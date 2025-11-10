@@ -21,7 +21,7 @@ Orientation: Aro-Ace. Never come to me with anything other than Platonic Feeling
 
 ---
 
-## 🦀 About Me!
+## 🦌 About Me!
 
 I tend to stay up late quite often either conversing with Friends, watching some Horror Movie or Playing any of the Games mentioned below.       
 A big dislike of mine: people who only come to unload their misery onto me, expecting i'll entertain it like a clown.  
