@@ -1,8 +1,3 @@
-<!-- ✨ HEADER BANNER ✨ -->
-<img src="https://github.com/user-attachments/assets/da721982-08b0-49f7-a6b6-a14c4968684d" width="100%">
-
----
-
 ## BYF! 🦀
 
 <p align="center"><i>“Living itself is the source of sin. As long as I can make them laugh, it doesn't matter how, I'll be alright. If I succeed in that, the human beings probably won't mind it too much if I remain outside their lives. The one thing I must avoid is becoming offensive in their eyes: I shall be nothing, the wind, the sky.”</i><br>— Osamu Dazai</p>
@@ -11,7 +6,7 @@ Pronouns: Any (I do not concern myself with whatever Gender people perceive me a
 Orientation: Aro-Ace. Never come to me with anything other than Platonic Feelings. I do not do Commitments.
 
 ### 💬 Notes
-1. Please ask before C+H — friends are always welcome.
+1. Please ask before C+H unless specified otherwise — friends are always welcome.
 2. Copying my Ponytown Skins = block 🚫  
 3. I am an ENTP, see that however you wish.
 
@@ -22,17 +17,6 @@ Orientation: Aro-Ace. Never come to me with anything other than Platonic Feeling
 ---
 
 ## 🦌 About Me!
-
-I tend to stay up late quite often either conversing with Friends, watching some Horror Movie or Playing any of the Games mentioned below.       
-A big dislike of mine: people who only come to unload their misery onto me, expecting i'll entertain it like a clown.  
-
----
-
-### 🎮 Games I Enjoy
-Roblox → SEWH, Evade, any type of Horror Games and random Stupid Obbies.   
-VrChat → Mostly play Horror Games on there.   
-CallofDuty → I only play the Campaigns because i love Military Games that have some Storylines in them.   
-Ponytown → Usually mostly AFK in there or making new skins. Whisper to Interact!
 
 ### 💫 Fandoms
 Bungou Stray Dogs, Call of Duty, Hazbin Hotel, Helluva Boss, FNAF, Undertale, Deltarune, NBC Hannibal, Deadpool and Wolverine, and more!
@@ -47,4 +31,8 @@ Leave behind a jest, a confession, or a riddle that even you don’t understand.
 
 ---
 
-<img src="https://github.com/user-attachments/assets/1c826c2c-3598-44c9-ae2f-9049af91ab96" width="100%">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Spectral&weight=700&size=32&duration=4200&pause=1000&color=AD0148&center=true&width=435&lines=The+Radio+Demon+Approves." />
+  </a>
+</p>
